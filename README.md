@@ -57,6 +57,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-My Email - tahafarag111@gmail.com.com
+My Email - tahafarag111@gmail.com
 
 Project Link: [https://github.com/TaHa8Farag/StudyBuddy-ChatBot](https://github.com/TaHa8Farag/StudyBuddy-ChatBot)
